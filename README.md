@@ -1,1 +1,3 @@
-# Programacion_1
+# Programacion_1 
+
+CONTENIDO ACADEMICO DE PROGRAMACION 1
