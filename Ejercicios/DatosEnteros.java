@@ -5,12 +5,10 @@ public class DatosEnteros {
         int dias1, dias2, segundos2, diferencia, suma, edad2;
         double division;
 
-        edad1 = 18;
-
         edad2 = 24;
 
-        dias1 =  edad1 * 365;
-        segundos = dias1 * 86400;
+        //dias1 =  edad1 * 365;
+        //segundos = dias1 * 86400;
 
         dias2 = edad2 * 365;
         segundos2 = dias2 * 86400;
